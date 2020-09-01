@@ -1,11 +1,11 @@
 tlz_admin_role = "tlz_avm_automation"
 
-avm_activity_sns_subscribers = "rafbarbo+tlz-demo-alarms@amazon.com"
+avm_activity_sns_subscribers = "gcc-mvp-core@hive.gov.sg"
 
-post_account_sender_email = "rafbarbo+tlz-demo@amazon.com"
+post_account_sender_email = "gcc-mvp-core@hive.gov.sg"
 
-post_account_subscriber_emails = "rafbarbo+tlz-demo-alarms@amazon.com"
+post_account_subscriber_emails = "gcc-mvp-core@hive.gov.sg"
 
 terraform_service_user = "terraform_svc"
 
-ssh_key = "github"
+ssh_key = "Key"
