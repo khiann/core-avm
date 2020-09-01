@@ -48,7 +48,7 @@ locals {
 }
 
 module "avm-baseline" {
-  source                         = "git@github.com:tlzproject/terraform-aws-avm.git"
+  source                         = "github.com/khiann/terraform-aws-avm"
   subnet_ids                     = var.subnet_ids
   security_group_ids             = var.security_group_ids
   master_payer_account           = var.master_payer_account
