@@ -1,0 +1,8 @@
+.DS_Store
+.terraform
+terraform_provider.tf
+*.tfstate*
+#*.tfvars
+*.zip
+backend.tf
+customer-secrets.auto.tfvars
